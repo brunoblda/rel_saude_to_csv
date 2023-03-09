@@ -10,11 +10,11 @@ Os valores em das percapitas sao convertidos de inteiro para float com as devida
 
 ## 1.1 Forma de utilização
 
-Salvar o arquivo executavel na pasta que contem 1 relatório e clicar 2 vezes no arquivo para executa-lo.
+Salvar o arquivo executavel na pasta que contem 1 relatório e os 2 arquivos de configuração e posteriormente clicar 2 vezes no arquivo para executa-lo.
 
-O programa só realiza uma conversão por vez e precisa estar somente o programa e o arquivo na pasta.
+O programa só realiza uma conversão por vez e precisa estar somente o programa, um arquivo do relatório na pasta e os dois arquivos de configuração.
 
-Dessa forma, para o correto funcionamento do programa apagar o relatorio e o documento gerado da pasta, somente colocar um documento para realizar a execucao do programa.
+Dessa forma, para o correto funcionamento do programa, apagar o relatório e o documento gerado da pasta, e somente colocar um documento quando for realizar a execucao do programa.
 
 ## 1.2 Requerimentos 
 
