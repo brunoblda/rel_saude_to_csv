@@ -24,6 +24,8 @@ Foi utilizado o python 3.10.8.
 
 ## 1.3 Executável
 
+Obs.: Testes somente foram realizados no arquivo.exe gerado, pois o sistema se baseia em um outro sistema ja em funcionamento e a forma de obtenção dos dados é se existir um arquivo diferente dos arquivos de configuração na pasta, assim, testar com o vscode não deve funcionar pois a pasta do main geralmente te mais arquivos do que somente o relatorio de testes.
+
 Para gerar o executável foi utilizado o modulo pyinstaller versão 5.0.
 
 Foi executado o commando no powershell como administrador:
